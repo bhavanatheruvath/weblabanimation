@@ -26,17 +26,30 @@
                     flex-direction: row;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: larger;
+                    height:320px;
                 }
                 
                 #list {
                     width: 2000px;
-                    height: 250px;
+                    height: 230px;
                     padding: 50px;
                     border: solid;
                     border-color: white;
                     border-radius: 5px;
-                    margin: 50px;
+                    margin: 20px;
+                    padding: 20px;
+                    box-shadow: 5px 5px 2px white;
+                }
+                #what{
+                    width: 2000px;
+                    height: 230px;
                     padding: 50px;
+                    border: solid;
+                    border-color: white;
+                    border-radius: 5px;
+                    margin: 20px;
+                    padding: 20px;
+                    box-shadow: 5px 5px 2px white;
                 }
                 
                 img {
